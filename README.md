@@ -8,6 +8,7 @@ Compare Muapi’s text-to-video and image-to-video model options with request me
 
 - [Video-Upscaler-API](https://github.com/Anil-matcha/Video-Upscaler-API)
 - [Image-to-Video-API](https://github.com/Anil-matcha/Image-to-Video-API)
+- [AI-Video-Effects-API](https://github.com/Anil-matcha/AI-Video-Effects-API) — 160+ named video effect, VFX and camera-move presets.
 
 ## What this API covers
 
